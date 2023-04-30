@@ -1,5 +1,9 @@
-package utils
+package utils;
 
-public class JavaUtils
+public class JavaUtils {
+
+    // reverse method
+
+}
   
-  // reverse method
+
